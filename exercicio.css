@@ -1,0 +1,25 @@
+body
+{
+    background-color: plum;
+}
+.borda
+{
+    height: 330px;
+    width: 300px;
+    border: 3px solid rebeccapurple;
+    border-radius: 10px;
+}
+h1
+{
+   margin-top: 15px;
+   margin-left: 40px;
+}
+p
+{
+    margin-top: 15px;
+    margin-left: 30px;
+}
+section
+{
+    margin: auto;
+}

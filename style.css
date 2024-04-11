@@ -1,0 +1,20 @@
+section
+{
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    background-color: cadetblue;
+}
+article
+{
+    border: 2px solid cadetblue;
+    margin: 100px 20px 60px 30px;
+}
+aside
+{
+    border: 2px solid cadetblue;
+    width: 300px;
+    margin: auto;
+}
